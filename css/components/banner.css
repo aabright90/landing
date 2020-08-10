@@ -1,0 +1,25 @@
+.banner {
+  height: 296px;
+  color: white;
+  padding: 160px 0;
+  margin-bottom: 72px;
+  background-position: center;
+  background-size: cover;
+}
+
+.banner h1 {
+  font-size: 40px;
+  text-shadow: 2px 2px 3px rgba(0,0,0,0.5)
+  font-family: Poppins;
+}
+
+.banner p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+  text-shadow: 2px 2px 3px rgba(0,0,0,0.5)
+}
+
+.content {
+  text-align: center;
+}

@@ -1,0 +1,25 @@
+.footer {
+  margin-top: 64px;
+  text-align: center;
+  padding: 60px;
+  text-align: center;
+  height: 162px;
+  background: #2c2b2b;
+}
+
+.footer a {
+    font-size: 30px;
+    color: #1EDD88;
+}
+
+.footer p {
+    color: #6B6C6C;
+}
+
+.links {
+  margin-top: 56px;
+}
+
+a:hover {
+  transform: scale(1.1);
+}
