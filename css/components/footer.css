@@ -20,6 +20,7 @@
   margin-top: 56px;
 }
 
-a:hover {
-  transform: scale(1.1);
+i:hover {
+  transform: scale(1.5);
 }
+
